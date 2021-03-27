@@ -1,0 +1,25 @@
+.Bg {
+    width: 73.75rem;
+    height: 11.188rem;
+    margin: 20px 20px 0px 100px;
+    /* margin: 2.938rem 0 0 0.188rem; */
+
+    /* padding: 4.625rem 8.5rem 4.563rem 4.813rem; */
+    background-color: white;
+    position: absolute;
+    bottom: 0;
+}
+
+.Nemo-enim-ipsam-volu {
+    width: 30.188rem;
+    height: 2rem;
+    margin: 0 13.75rem 0 0;
+    font-family: HelveticaNeue;
+    font-size: 1.5rem;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: -0.63px;
+    color: var(--black);
+  }
